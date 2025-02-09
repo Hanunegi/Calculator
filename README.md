@@ -1,4 +1,4 @@
-This my Task-2 as Task-1 as an assignment of my internship from CodeAlpha
+
 A calculator which perform all functions a basic calculator performs.
 This project is created Using HTML, CSS, Javascript & React
 The working output/ calculator you can seee throgh below image link.
